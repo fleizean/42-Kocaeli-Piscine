@@ -29,20 +29,49 @@
 </h2>
 
 <p align="center">
-    **Shell 00** <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2414405"/>
-    **C 00** <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2423034"/>
-    **C 01** <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2423034"/>
-    **C 02** <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2426766"/>
-    **C 03** <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2433034"/>
-    **C 04** <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2433034"/>
-    **C 05** <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2433034"/>
-    **C 06** <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2433034"/>
-    **C 07** <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2439470"/>
-    **C 08** <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2439470"/>
-    **Rush 00** <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2420734"/>
-    
-    **Exam 00** <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2418661"/>
-    **Exam 01** <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2428380"/>
-    **Exam 02** <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2434890"/>
-    **Final Exam**  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2441799"/>
+  <span style="font-weight: bold;">Shell 00</span><br>
+  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2414405"/><br><br>
+  
+  <span style="font-weight: bold;">C 00</span><br>
+  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2423034"/><br><br>
+  
+  <span style="font-weight: bold;">C 01</span><br>
+  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2423034"/><br><br>
+  
+  <span style="font-weight: bold;">C 02</span><br>
+  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2426766"/><br><br>
+  
+  <span style="font-weight: bold;">C 03</span><br>
+  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2433034"/><br><br>
+  
+  <span style="font-weight: bold;">C 04</span><br>
+  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2433034"/><br><br>
+  
+  <span style="font-weight: bold;">C 05</span><br>
+  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2433034"/><br><br>
+  
+  <span style="font-weight: bold;">C 06</span><br>
+  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2433034"/><br><br>
+  
+  <span style="font-weight: bold;">C 07</span><br>
+  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2439470"/><br><br>
+  
+  <span style="font-weight: bold;">C 08</span><br>
+  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2439470"/><br><br>
+  
+  <span style="font-weight: bold;">Rush 00</span><br>
+  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2420734"/><br><br>
+  
+  <span style="font-weight: bold;">Exam 00</span><br>
+  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2418661"/><br><br>
+  
+  <span style="font-weight: bold;">Exam 01</span><br>
+  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2428380"/>
+  
+  <span style="font-weight: bold;">Exam 02</span><br>
+  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2434890"/>
+  
+  <span style="font-weight: bold;">Final Exam</span><br>
+  <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2434890"/>
+
 </p>
