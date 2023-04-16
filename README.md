@@ -31,47 +31,63 @@
 <p align="center">
   <span style="font-weight: bold;">Shell 00</span><br>
   <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2414405"/><br><br>
-  
+</p>
+
+<p align="center">
   <span style="font-weight: bold;">C 00</span><br>
   <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2423034"/><br><br>
-  
+</p>
+
+<p align="center">
   <span style="font-weight: bold;">C 01</span><br>
   <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2423034"/><br><br>
-  
+</p>
+<p align="center">  
   <span style="font-weight: bold;">C 02</span><br>
   <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2426766"/><br><br>
-  
+</p>
+<p align="center">  
   <span style="font-weight: bold;">C 03</span><br>
   <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2433034"/><br><br>
-  
+</p>
+<p align="center">  
   <span style="font-weight: bold;">C 04</span><br>
   <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2433034"/><br><br>
-  
+</p>
+<p align="center">  
   <span style="font-weight: bold;">C 05</span><br>
   <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2433034"/><br><br>
-  
+</p>
+<p align="center">  
   <span style="font-weight: bold;">C 06</span><br>
   <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2433034"/><br><br>
-  
+</p>
+<p align="center">  
   <span style="font-weight: bold;">C 07</span><br>
   <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2439470"/><br><br>
-  
+</p>
+<p align="center">  
   <span style="font-weight: bold;">C 08</span><br>
   <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2439470"/><br><br>
-  
+</p>
+<p align="center">  
   <span style="font-weight: bold;">Rush 00</span><br>
   <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2420734"/><br><br>
-  
+</p>  
+
+<p align="center">  
   <span style="font-weight: bold;">Exam 00</span><br>
   <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2418661"/><br><br>
-  
+</p>
+<p align="center">  
   <span style="font-weight: bold;">Exam 01</span><br>
   <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2428380"/>
-  
+</p>
+<p align="center">  
   <span style="font-weight: bold;">Exam 02</span><br>
   <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2434890"/>
-  
+</p>
+<p align="center">  
   <span style="font-weight: bold;">Final Exam</span><br>
   <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/project/2434890"/>
-
 </p>
