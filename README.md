@@ -21,7 +21,7 @@
 </h3>
 
 <p align="center">
-    Chase Atlantic - Swim
+    <a href="https://www.youtube.com/watch?v=mC9v5FaLt84">Chase Atlantic - Swim</a>
 </p>
 
 <h2 align="center">
