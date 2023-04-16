@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-    <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/stats?cursusId=21&coalitionId=233"/>
+    <img src="https://badge42.vercel.app/api/v2/cl13ejq4y000909mke5sxpjan/stats?cursusId=9&coalitionId=233"/>
 </p>
 
 <h3 align="center">
