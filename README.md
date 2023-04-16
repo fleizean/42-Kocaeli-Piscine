@@ -21,7 +21,7 @@
 </h3>
 
 <p align="center">
-    This project is aimed at multi-threaded/multi-processed programming using mutexes and semaphores. We need to write a program that simulates the Famous Philosophers problem.
+    Chase Atlantic - Swim
 </p>
 
 <h2 align="center">
