@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-  My solutions for the Piscine-II. My advice for u Don't Copy, Learn!
+  My advice for u Don't Copy, Learn!
 </h3>
 
 <p align="center">
